@@ -1,8 +1,7 @@
-# TheFruitsShop
+# The Fruits Shop
+This is the sample project for the Agiratech blog post [Create Your First Custom Angular CLI Schematic With Nx](https://www.agiratech.com/creating-custom-angular-cli-schematic-with-nx-examples).
 
-This project was generated using [Nx](https://nx.dev).
-
-<p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" width="450"></p>
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) using [Nrwl Nx](https://nrwl.io/nx). Both the Angular CLI and Nx are version 7+.
 
 🔎 **Nx is a set of Extensible Dev Tools for Monorepos.**
 
